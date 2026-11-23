@@ -1,6 +1,6 @@
 # Meu Primeiro Jogo em Python (Dragon Ball 2D)
 
-> Esse arquivo foi postado com o intuito de guardar meu primeiro jogo, o codigo está bem nivel iniciante, espero no futuro reescreve-lo em uma versão 2.0 melhorada para comparar minha evolução.
+> Projeto acadêmico desenvolvido no 1º semestre de Engenharia de Controle e Automação (UFSC) para a disciplina Introdução à Informática para a Automação, aplicando lógica de programação, controle de eventos e animação 2D em Python (com planos de evolução futura para uma versão 2.0).
 
 ## Resumo do Jogo
 
